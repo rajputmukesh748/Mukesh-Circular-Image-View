@@ -1,6 +1,27 @@
 # Mukesh-Circular-Image-View
 <h3> Mukesh Rajput </h3>
 </br>
+
+<h3>To get a Git project into your build:<h3>
+
+Step 1. Add the JitPack repository to your build file
+Add it in your root build.gradle at the end of repositories:
+
+	allprojects {
+		repositories {
+			...
+			maven { url 'https://jitpack.io' }
+		}
+	}
+
+
+Step 2. Add the dependency
+
+	dependencies {
+	        implementation 'com.github.rajputmukesh748:Mukesh-Circular-Image-View:Tag'
+	}
+
+
 <h2><center>Simple circular image view</center></h2>
 
 <h5>Add code in your xml for create a simple circular image view.</h5>
