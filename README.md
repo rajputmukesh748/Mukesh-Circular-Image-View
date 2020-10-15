@@ -18,7 +18,7 @@ Add it in your root build.gradle at the end of repositories:
 Step 2. Add the dependency
 
 	dependencies {
-	        implementation 'com.github.rajputmukesh748:Mukesh-Circular-Image-View:Tag'
+	        implementation 'com.github.rajputmukesh748:Mukesh-Circular-Image-View:1.0.0'
 	}
 
 
