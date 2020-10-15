@@ -1,4 +1,4 @@
-# Mukesh-Circular-Image-View [![](https://jitpack.io/v/rajputmukesh748/Mukesh-Circular-Image-View.svg)](https://jitpack.io/#rajputmukesh748/Mukesh-Circular-Image-View)
+# Mukesh-Circular-Image-View ![](https://jitpack.io/v/rajputmukesh748/Mukesh-Circular-Image-View.svg)
 
 <h3> Mukesh Rajput </h3>
 </br>
