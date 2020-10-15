@@ -1,11 +1,11 @@
-# Mukesh-Circular-Image-View
+# Mukesh-Circular-Image-View [![](https://jitpack.io/v/rajputmukesh748/Mukesh-Circular-Image-View.svg)](https://jitpack.io/#rajputmukesh748/Mukesh-Circular-Image-View)
+
 <h3> Mukesh Rajput </h3>
 </br>
 
-<h3>To get a Git project into your build:<h3>
+<h4>To get a Git project into your build:</h4>
 
-Step 1. Add the JitPack repository to your build file
-Add it in your root build.gradle at the end of repositories:
+Step 1. Add the JitPack repository to your build file. Add it in your root build.gradle at the end of repositories:
 
 	allprojects {
 		repositories {
@@ -21,7 +21,7 @@ Step 2. Add the dependency
 	        implementation 'com.github.rajputmukesh748:Mukesh-Circular-Image-View:1.0.0'
 	}
 
-
+</br>
 <h2><center>Simple circular image view</center></h2>
 
 <h5>Add code in your xml for create a simple circular image view.</h5>
@@ -60,7 +60,5 @@ Step 2. Add the dependency
 
 ![MukeshCircleImageView](https://github.com/rajputmukesh748/Mukesh-Circular-Image-View/blob/main/Border%20Circular%20Image%20View.png)
 
-
-<p>For fetch online images you can user Glide or Picasso libraries.</p>
 
 <b><h3>Thanks for your support. Please try and support it.</h3></b>
